@@ -3,6 +3,7 @@
 + intro
 + move_semantics
 + primitive_types
++ structs
 + variables
 + vecs
 
